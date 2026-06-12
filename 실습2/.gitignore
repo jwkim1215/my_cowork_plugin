@@ -1,0 +1,23 @@
+# OS 생성 파일
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 에디터 설정
+.vscode/
+.idea/
+*.swp
+
+# 로그 / 임시 파일
+*.log
+tmp/
+temp/
+
+# 의존성 (플러그인이 node 기반일 경우)
+node_modules/
+
+# 환경 변수 / 비밀 정보 (절대 커밋 금지)
+.env
+.env.*
+*.key
+secrets.*
