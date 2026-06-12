@@ -1,0 +1,18 @@
+{
+  "name": "kccenc-cowork-plugins",
+  "owner": {
+    "name": "Kccenc",
+    "email": "claude.kccenc@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "text-tools",
+      "source": "./plugins/text-tools",
+      "description": "문서·텍스트 요약 등 글쓰기 보조 스킬 모음 (예시 플러그인)",
+      "version": "0.1.0",
+      "author": {
+        "name": "Kccenc"
+      }
+    }
+  ]
+}
